@@ -1,0 +1,41 @@
+.quotes {
+    font-size: 25px;
+font-family: 'Indie Flower', cursive;    
+}
+
+.ray-quotes {
+    color: blue;
+}
+
+
+img {
+    height: 250px;
+}
+
+.border {
+    font-size: 20px;
+    border: solid 10px;
+    padding: 10px;
+    margin: 10px;
+    color: blue;
+
+}
+
+.margin {
+    display: flex;
+    justify-content: space-between;
+}
+
+body {
+    background-color: green;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+}
+
+.font {
+    font-family: 'Lobster', cursive;
+
+}
